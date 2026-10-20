@@ -1,0 +1,17 @@
+# Archivos privados y respaldos
+private/
+backups/
+PG05_Prueba_Publicacion/
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de auditoría
+*_AUDITORIA.zip
+*_AUDITORIA.xlsx
