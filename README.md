@@ -69,7 +69,11 @@ La versión demostrativa fue comprobada mediante controles de registros, coincid
 
 El libro incluye indicadores de ventas, costos, diferencia bruta, margen estimado, rankings Top 10 y alertas sobre productos que requieren revisión.
 
-Las capturas públicas podrán incorporarse en `assets/screenshots/` después de verificar que muestran exclusivamente información sintética.
+<img width="1236" height="1076" alt="dashboard-principal" src="https://github.com/user-attachments/assets/35960419-eb98-4f77-b24b-a2d1dcc12a0f" />
+
+[Retail_Sales_Cost_Analytics_DEMO.pdf](https://github.com/user-attachments/files/33908920/Retail_Sales_Cost_Analytics_DEMO.pdf)
+
+La visualización utiliza exclusivamente datos sintéticos y representa los resultados validados de la versión demostrativa.
 
 ## 9. Organización del repositorio
 
